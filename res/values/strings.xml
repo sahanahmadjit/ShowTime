@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TvScheduleApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="Bangla">Bangla</string>
+	<string name="IndianBangla">Indian Bangla</string>
+	<string name="Sports">Sports</string>
+	<string name="Movie">Movie</string>
+	<string name="allChannelStr">ALL Channel List</string>
+	<string name="favouriteChannelStr">Your Favourite Channel List</string>
+	<string name="title">900+ Channnel All Over The World</string>
+	<string name="titleDes">You can create your favourite channel list</string>
+</resources>
